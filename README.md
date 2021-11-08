@@ -2,7 +2,7 @@
 <h3 align="center">
 
   
-![alt text](https://imgur.com/OAcx6Vw)
+![Image](https://imgur.com/OAcx6Vw)
 Good morning, evening or afternoon depending on where you are reading my presentation.
 My name is Theo Michael Sojo and I am a Managment Information Systems student at UBA in Argentina.
 I have a huge passion for programming, world-changing software development, technology innovation, and finance.
