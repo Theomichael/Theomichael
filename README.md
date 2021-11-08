@@ -3,7 +3,7 @@
 
 - I have completed [CS50 Harvard Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-- 🌱 I’m currently learning **Introduction to Algorithms by THOMAS H. CHARLES E. RONALD L . CLIFFORD STEIN RIVEST LEISERSON CORMEN**
+- 🌱 I’m currently learning **Introduction to Algorithms by Thomas H., Charles E. ,RONALD L. , Clifford S.**
 
 - 🌱 I’m currently learning [Machine Learning Stanford](https://www.coursera.org/learn/machine-learning?page=3)
 
