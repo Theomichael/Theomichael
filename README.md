@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theo Michael Sojo</h1>
 <h3 align="center">
 
-[Imgur](https://imgur.com/OAcx6Vw)
+![654477](https://user-images.githubusercontent.com/88253574/140828441-991163aa-87d2-4677-81b8-339d6c5f50eb.png)
+
 Good morning, evening or afternoon depending on where you are reading my presentation.
 My name is Theo Michael Sojo and I am a Managment Information Systems student at UBA in Argentina.
 I have a huge passion for programming, world-changing software development, technology innovation, and finance.
