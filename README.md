@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theo Michael Sojo</h1>
 <h3 align="center">
 
-![654477](https://user-images.githubusercontent.com/88253574/140828441-991163aa-87d2-4677-81b8-339d6c5f50eb.png)
+![654477 (1)](https://user-images.githubusercontent.com/88253574/140828597-0db705bc-f694-4a16-a6c7-4690a2fa7df8.png)
+
 
 Good morning, evening or afternoon depending on where you are reading my presentation.
 My name is Theo Michael Sojo and I am a Managment Information Systems student at UBA in Argentina.
